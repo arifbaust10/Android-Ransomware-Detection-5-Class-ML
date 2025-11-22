@@ -54,11 +54,5 @@ Total samples used after cleaning: **355,939 applications**.
 
 ---
 
-## 🚀 How to Run
-
-### 1. Install Required Packages
-
-```bash
-pip install -r requirements.txt
 
 
